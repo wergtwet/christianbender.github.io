@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1503326782762-2926a1fb8651?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&s=270297a4e03cd71859a3230a7f1b22f3");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&s=5f8c9e11dbac64af58e2f4ddcbc09ae0");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: red;
+}
+
+#about {
+  padding: 25px 25px 50px 25px;
+  opacity: 0.75;
+}
+
+#find-me {
+  padding: 25px 25px 25px 25px;
+  opacity: 0.75;
+}
+
+#button-row {
+  padding: 25px 25px 20px 25px;
+  margin: 10px 10px 10px 10px;
+}
